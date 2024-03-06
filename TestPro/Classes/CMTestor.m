@@ -13,4 +13,8 @@
     NSLog(@"printJHIMComponet*****");
 }
 
+- (void)test {
+    NSLog(@"test*****");
+}
+
 @end
