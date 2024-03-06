@@ -20,9 +20,6 @@
   },
   "source_files": "TestPro/Classes/**/*",
   "dependencies": {
-    "AFNetworking": [
-      "~> 2.3"
-    ],
     "MJExtension": [
 
     ]
