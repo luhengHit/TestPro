@@ -7,6 +7,7 @@
 //
 
 #import "LHViewController.h"
+#import <TestPro/CMTestor.h>
 
 @interface LHViewController ()
 
@@ -17,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    [[CMTestor new] printJHIMComponet];
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,0 +1,30 @@
+{
+  "name": "TestPro",
+  "version": "0.1.0",
+  "summary": "A short description of TestPro.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chimu/TestPro",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chimu": "10652536@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/chimu/TestPro.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestPro/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "MJExtension": [
+
+    ]
+  }
+}

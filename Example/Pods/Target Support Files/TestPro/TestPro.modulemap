@@ -1,0 +1,6 @@
+framework module TestPro {
+  umbrella header "TestPro-umbrella.h"
+
+  export *
+  module * { export * }
+}
